@@ -1,0 +1,13 @@
+html, body {
+    padding:0;
+    margin:o;
+    font-size: 16px;
+
+
+}
+menu nav ul li {
+    display:inline-block;
+    vertical-align: middle;
+    margin:0 5px;
+    border-bottom: 1px solid black;
+}
